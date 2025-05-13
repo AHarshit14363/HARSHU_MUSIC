@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/lajabajwkjsaiajajahjwkdhdywhjwjsjsgs/NOORX",
+    "https://github.com/AHarshit14363/HARSHU_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Cinderella_Updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+PaEtaAu9DI9mYzc9")
-SOURCE = getenv("SOURCE", "https://t.me/THUNDERDEVS")
-CHAT = getenv("CHAT", "https://t.me/+-GV2WLaCn9gwZWM1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Gk_Gs_with_Harshit")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/UtkarshQuizr")
+SOURCE = getenv("SOURCE", "https://t.me/HARSHU_ABOUT")
+CHAT = getenv("CHAT", "https://t.me/harshit_ll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
